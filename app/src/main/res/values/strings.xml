@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QUANTTIJOLOS</string>
+    <string name="Calcular">Calcular</string>
+    <string name="BigBlock">Grande</string>
+    <string name="mediumBlock">Médio</string>
+    <string name="smallBlock">Pequeno</string>
+    <string name="wh">...</string>
+</resources>
